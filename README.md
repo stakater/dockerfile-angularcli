@@ -1,0 +1,5 @@
+dockerfile-angularcli
+=====================
+
+* angularcli
+* git
